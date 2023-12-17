@@ -1,0 +1,189 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+.page_title_container
+{
+    margin: 0px;
+    background-color: rgba(50, 180, 255, 0.558);
+    border-bottom: 1px black solid;
+}
+.page_title
+{
+    padding: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+}
+.home
+{
+    display: flex;
+}
+.body
+{
+    background-color: rgba(88, 199, 162, 0.886);
+    height: 695px;
+    width: 1350px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+}
+.body_title
+{
+    text-align: center;
+}
+.menu
+{
+    background-color: rgba(50, 180, 255, 0.558);
+    margin: 0px;
+    width: 200px;
+    height: 700px;
+    border-right: 1px black solid;
+    text-align: center;
+    color: black;
+}
+.home_images
+{
+    display: flex;
+}
+#home_image1
+{
+    width: 900px;
+    height: 500px;
+}
+#home_image2
+{
+    width: 300px;
+    height: 500px;
+    padding-left: 50px;
+}
+.aboutme
+{
+    display: flex;
+}
+.aboutme_elements
+{
+    display: flex;
+}
+.aboutme_description
+{
+    background-color: lightgreen;
+    padding: 10px;
+    width: 600px;
+    height: auto;
+    border-right: 1px black solid;
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+}
+.aboutme_curriculum
+{
+    padding: 10px;
+    width: 600px;
+    height: auto;
+    border-right: 1px black solid;
+    border-top: 1px black solid;
+    background-color: lightgreen;
+}
+.aboutme_links
+{
+    background-color: lightgreen;
+    width: 1240px;
+    border: 1px black solid;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.aboutme_images
+{
+    padding-left: 315px;
+    padding-top: 10px;
+    width: 1240px;
+}
+#aboutme_image1
+{
+    padding-right: 20px;
+    width: 23%;
+}
+#aboutme_image2
+{
+    padding-left: 20px;
+    width: 23%;
+}
+.form
+{
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px black solid;
+    background-color: lightgreen;
+}
+.contactme_images
+{
+    padding-top: 120px;
+    padding-left: 440px;
+}
+.degree_list
+{
+    display: flex;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.first_course
+{
+    padding-right: 50px;
+}
+.second_course
+{
+    padding-left: 50px;
+}
+.fourth_course
+{
+    padding-left: 135px;
+
+}
+#unit_ante
+{
+    font-weight: bold;
+}
+#falcon9
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin: 30 px;
+    width: 35%;
+}
+#falcon_heavy
+{
+    margin: 30px;
+    width: 40%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#starship
+{
+    margin: 30px;
+    width: 45%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.body_topic
+{
+    background-color: rgba(88, 199, 162, 0.886);
+    height: 1095px;
+    width: 1350px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+}
+.menu_topic
+{
+    background-color: rgba(50, 180, 255, 0.558);
+    margin: 0px;
+    width: 200px;
+    height: 1100px;
+    border-right: 1px black solid;
+    text-align: center;
+    color: black;
+}
